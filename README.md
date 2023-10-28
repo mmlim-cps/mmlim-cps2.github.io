@@ -1,2 +1,2 @@
 # mmlim-cps2.github.io
-deploy my recipe
+deploy my recipe webpage
